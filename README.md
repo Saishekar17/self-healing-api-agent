@@ -34,7 +34,9 @@ API Error → Analyzer → Fix Generator → RAG Memory → Confidence Scorer �
 
 ## 📸 UI Preview
 
-![App Screenshot](assets/screenshot.png)
+![img](assets/screenshot.png)
+![img](assets/screenshot.png)
+![img](assets/screenshot.png)
 
 ---
 

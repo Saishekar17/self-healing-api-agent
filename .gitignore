@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Env
+venv/
+.env
+
+# OS files
+.DS_Store
+
+# Data / Memory (IMPORTANT)
+data/
+*.pkl
+
+# Logs
+logs/
+*.log
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.sqlite3

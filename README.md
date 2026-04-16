@@ -33,9 +33,13 @@ API Error → Analyzer → Fix Generator → RAG Memory → Confidence Scorer �
 ---
 
 ## 📸 UI Preview
+## Paste Error Log & It Will Analysis It !
+![img](https://github.com/Saishekar17/self-healing-api-agent/blob/d337f2b8ce4119285942070032f2dc92896902f4/11.png)
 
+## Restored History !
 ![img](assets/screenshot.png)
-![img](assets/screenshot.png)
+
+## Fix Suggestions for Logs With Confidence Score !
 ![img](assets/screenshot.png)
 
 ---

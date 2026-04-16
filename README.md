@@ -37,7 +37,7 @@ API Error → Analyzer → Fix Generator → RAG Memory → Confidence Scorer �
 ![img](https://github.com/Saishekar17/self-healing-api-agent/blob/d337f2b8ce4119285942070032f2dc92896902f4/11.png)
 
 ## Restored History !
-![img](assets/screenshot.png)
+![img](https://github.com/Saishekar17/self-healing-api-agent/blob/613b4f802afbdeb6c32169a8225e3a69f70c1e4d/12.png)
 
 ## Fix Suggestions for Logs With Confidence Score !
 ![img](assets/screenshot.png)
